@@ -1,0 +1,19 @@
+{
+  "cuccumberProjectName": "bb-cucumber-js",
+  "testRailStatusMapping": {
+    "Passed": 1,
+    "Failed": 5,
+    "Blocked": 2,
+    "Retest": 4
+  },
+  "testRail": {
+    "auth": {
+      "host": "https://mnv.testrail.com",
+      "user": "anusha.reddy.contractor@macmillan.com",
+      "password": "5Hu/zfEiFfkmkMnOWkEF-38ObzaDLWPNNxv2F/CYE"
+    },
+    "projectId": 17,
+    "suiteId": 5300,
+    "runId": 10319
+  }
+}
